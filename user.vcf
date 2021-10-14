@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Talley;Josh;;;
-FN: Josh Talley 
-ORG:SolarWise;
-TITLE:Solar Advisor
-EMAIL;type=INTERNET;type=WORK;type=pref:josh.t@getsolarwise.com
-TEL;type=WORK;type=VOICE:+7197890969
+FN;CHARSET=UTF-8:Josh Talley
+N;CHARSET=UTF-8:Talley;Josh;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:josh.t@getsolarwise.com
 PHOTO;JPEG:https://eisbaerblitz.github.io/digital-namecard/ProPortrait.jpg
-item1.URL;type=pref:solar.lemontoast.com
-item1.X-ABLabel:_$!<HomePage>!$_
+TEL;TYPE=WORK,VOICE:7197890969
+TITLE;CHARSET=UTF-8:Solar Advisor
+ORG;CHARSET=UTF-8:SolarWise
+URL;type=WORK;CHARSET=UTF-8:solar.lemontoast.com
+REV:2021-10-14T02:36:17.966Z
 END:VCARD
