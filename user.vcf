@@ -4,7 +4,7 @@ FN;CHARSET=UTF-8:Josh Talley
 N;CHARSET=UTF-8:Talley;Josh;;;
 GENDER:M
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:josh.t@getsolarwise.com
-PHOTO;JPEG:https://eisbaerblitz.github.io/digital-namecard/ProPortrait.jpg
+PHOTO;TYPE=JPEG;VALUE=URI:https://eisbaerblitz.github.io/digital-namecard/ProPortrait.jpg
 TEL;TYPE=WORK,VOICE:7197890969
 TITLE;CHARSET=UTF-8:Solar Advisor
 ORG;CHARSET=UTF-8:SolarWise
