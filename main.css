@@ -144,8 +144,12 @@ img.profile-pic {
 	background-color: white;
 }
 
-img.color-test {
+.color-test {
     filter: hue-rotate(265deg) brightness(1.5);
+}
+
+.arrow {
+	filter: brightness(3);
 }
 
 .text-name {
@@ -183,7 +187,9 @@ img.color-test {
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
 	color: #7e7e7e;
-	font-weight: 300;
+	font-weight: bolder;
+	border-radius: 10px;
+	box-shadow: grey 3px 3px 3px 0px;
 }
 
 @media screen and (max-width: 600px) {
