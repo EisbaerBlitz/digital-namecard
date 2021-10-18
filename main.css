@@ -120,6 +120,8 @@ img.profile-pic {
 
 .name-title-company {
 	height: 100%;
+    	text-align: center;
+	border: black 2px solid;
 }
 
 .banner {
@@ -135,11 +137,15 @@ img.profile-pic {
 }
 
 .bg-color-grey {
-	background-color: #F2F2F2;
+	background-color: #7e7e7e;
 }
 
 .bg-color-white {
 	background-color: white;
+}
+
+img.color-test {
+    filter: hue-rotate(265deg) brightness(1.5);
 }
 
 .text-name {
@@ -159,7 +165,7 @@ img.profile-pic {
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #f3f3f3;
     font-size: 12px;
 }
 
