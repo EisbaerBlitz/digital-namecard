@@ -121,7 +121,6 @@ img.profile-pic {
 .name-title-company {
 	height: 100%;
     	text-align: center;
-	border: black 2px solid;
 }
 
 .banner {
@@ -130,6 +129,7 @@ img.profile-pic {
 
 .primary-info {
 	height: 15%;
+	border: black 2px solid;
 }
 
 .secondary-info {
